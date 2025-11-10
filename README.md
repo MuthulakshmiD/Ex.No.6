@@ -4,7 +4,10 @@
 # Register no. 212223040122
 # Aim: Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights with Multiple AI Tools
 
-#AI Tools Required:
+## Prompt :
+Act as an AI software engineer specializing in API integration and data analytics.
+Design, explain, and comment the Python program step-by-step that integrates two weather APIs, compares their outputs, and produces an intelligent insight summary about their performance.
+Ensure the explanation is simple and beginner-friendly
 
 # Explanation:
 Experiment the persona pattern as a programmer for any specific applications related with your interesting area. 
